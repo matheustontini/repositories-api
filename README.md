@@ -4,7 +4,7 @@ An IPA that I use to save/organize my personal projects
 
 ### Installing
 
-1. Clone the project
+Clone the project
 
 ```
 git clone https://github.com/matheustontini/repositories-api.git
